@@ -4,31 +4,28 @@
 
 ---
 
-<span style="font-size:17px">
-
 💡 **Turning curiosity into code since 2022**  
 📚 **Currently learning**: Data Structures & Algorithms, Machine Learning, and Flutter  
 🔬 **Research Interests**: Human Pose Estimation, Gait Analysis, and Computer Vision  
-🎯 **Goals**:  
-  • Publish an AI research paper  
-  • Become a skilled competitive programmer  
-  • Build impactful real-world projects  
-🛠️ **Working with**: MediaPipe for motion tracking and body analysis  
+🛠️ **Working with**: MediaPipe for motion tracking and body analysis 
 
-</span>
+🎯 **Goals:**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Publish an AI research paper  
+&nbsp;&nbsp;&nbsp;&nbsp;• Become a skilled competitive programmer  
+&nbsp;&nbsp;&nbsp;&nbsp;• Build impactful real-world projects   
 
 ---
 
-### Connect with me:
+### 📲 Connect with me:
 <p>
   <a href="https://instagram.com/pranav_451107" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="52" height="52"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
