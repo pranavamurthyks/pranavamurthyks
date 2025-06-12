@@ -16,18 +16,18 @@
 
 ---
 
-### 📲 Connect with me:
-<p>
-  <a href="https://instagram.com/pranav_451107" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50" height="50"/>
-  </a>
-</p>
-
----
-
 ### 💻 Languages and Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</p>
+
+---
+
+### 📲 Connect with me:
+<p>
+  <a href="https://instagram.com/pranav_451107" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50" height="50"/>
+  </a>
 </p>
