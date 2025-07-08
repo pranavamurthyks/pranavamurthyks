@@ -5,7 +5,7 @@
 ---
 
 💡 **Turning curiosity into code since 2022**  
-📚 **Currently learning**: Data Structures & Algorithms, Machine Learning, and Flutter  
+📚 **Currently learning**: Data Structures & Algorithms, Machine Learning, and Full Stack Development (MERN)  
 🔬 **Research Interests**: Human Pose Estimation, Gait Analysis, and Computer Vision  
 🛠️ **Working with**: MediaPipe for motion tracking and body analysis 
 
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
 </p>
 
